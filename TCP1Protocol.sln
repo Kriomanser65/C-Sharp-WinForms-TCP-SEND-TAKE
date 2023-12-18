@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCP1Protocol", "TCP1Protocol\TCP1Protocol.csproj", "{32237980-689E-4A05-B546-1C3F12868943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32237980-689E-4A05-B546-1C3F12868943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32237980-689E-4A05-B546-1C3F12868943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32237980-689E-4A05-B546-1C3F12868943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32237980-689E-4A05-B546-1C3F12868943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A6C1CEB-3581-4E3D-BBD1-E2CB49FD4F31}
+	EndGlobalSection
+EndGlobal
